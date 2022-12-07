@@ -5,4 +5,7 @@ Artsy displays high-resolution images as a series of tiles, so if you try to sav
 
 ## Usage Instructions
 1. Install dependencies: Requests, Pillow
-2. 
+2. Run script, providing artwork URL as follows:  
+```
+python .\artsy-ripper.py --url https://www.artsy.net/artwork/christina-tsaou-playful-peaceful
+```
